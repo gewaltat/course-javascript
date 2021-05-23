@@ -1,7 +1,5 @@
 /* ДЗ 1 - Функции */
 
-import { TestScheduler } from "@jest/core";
-
 /*
  Задание 1:
 
